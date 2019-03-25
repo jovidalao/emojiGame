@@ -19,5 +19,12 @@
 *.tar.gz
 *.rar
 
+#自定义ignore
+.idea
+emojiGame.iml
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+out/production/firstModule/META-INF/firstModule.kotlin_module
+firstModule/firstModule.iml
+firstModule/firstModule.iml
+firstModule/firstModule.iml
